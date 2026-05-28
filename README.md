@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello world: I'm Naruxtian</h1>
 <h3 align="center">Also known as Christian Muñoz</h3>
-<h3 align="center">I'm a Mexican developer currently studying and eager to grow</h3>
+<h3 align="center">I'm a Mexican developer eager to grow</h3>
+<h3 align="center">Software Enginner</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 
